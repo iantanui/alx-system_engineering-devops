@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 cd~
+=======
+#!/bin/bash
+ls -l
+>>>>>>> 4ee8f43d1a5a525ae302a14807c2e6993e1c0a4d
