@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-ls -al
-=======
 #!/bin/bash
-ls -la247
->>>>>>> 3d0945660bb951113cb048f890f2ec1100172b1c
+ls -al
