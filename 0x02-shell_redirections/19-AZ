@@ -1,1 +1,1 @@
-tr 'A' 'Z' |TR 'c' 'e'
+tr 'A' 'Z' |tr 'c' 'e'
