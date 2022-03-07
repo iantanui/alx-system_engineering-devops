@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+#!/bin/bash
+>>>>>>> c1030574cfc603de9aad689e11fdd982baa95121
 ls -lR | grep ^d | wc -l
