@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+#!/bin/bash
+>>>>>>> 7912ba857e0aea87b14aea6e9014af5190428d1d
 tr 'A''Z' | tr 'c' 'e'
