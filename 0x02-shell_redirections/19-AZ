@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 tr 'A' 'Z' |tr 'c' 'e'
+=======
+#!/bin/bash
+tr 'A' 'Z' |TR 'c' 'e'
+>>>>>>> 3d209957b7d209d29c0a1f95c8e6b0e92eca691b
