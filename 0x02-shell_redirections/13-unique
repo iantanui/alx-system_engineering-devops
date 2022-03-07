@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 sort uniq -u
-=======
 #!/bin/bash
-sort -n list | uniq -u
->>>>>>> c8158a4a254f4937c7a481359a4e7ed453212f9c
