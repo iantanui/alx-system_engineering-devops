@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 alias lf 'ls -F'
+=======
+#!/bin/bash
+alias lf 'ls -F'
+>>>>>>> 22b33094a5a8affed28ce3681e9d479a573ed62e
