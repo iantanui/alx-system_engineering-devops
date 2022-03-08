@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 echo /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin | tr : n | wc -l
+=======
+#!/bin/bash
+echo $PATH | tr : "\n" | wc -l
+>>>>>>> 276b9dfd85a6f3c16bbe0769fcdb60c420ad23e9
